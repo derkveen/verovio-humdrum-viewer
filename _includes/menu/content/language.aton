@@ -8,7 +8,7 @@
 @@BEGIN: ENTRY
 @@BEGIN: TEXT
 @FORCE:			AR
-@DEFAULT:		Arabic
+@DEFAULT:		Arabisch
 @AR:			اللغة العربية
 @ACTION:		MENU.setLanguage('AR')
 @@END: TEXT
@@ -16,8 +16,8 @@
 
 @@BEGIN: ENTRY
 @@BEGIN: TEXT
-@FORCE:			BE
-@DEFAULT:		Belarusian
+@FORCE:			WR
+@DEFAULT:		Wit-Russisch
 @BE:			Беларуская
 @ACTION:		MENU.setLanguage('BE')
 @@END: TEXT
